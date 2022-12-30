@@ -1,3 +1,3 @@
-Project 1: To implement different clustering methods to synthetic and real-world data and validate using external and internal validation techniques. \n
-Project 2: To extract time series features for human activity monitoring. \n
-Project 3: To perform keyword network analysis and word frequency analysis.
+Project 1: To implement different clustering methods to synthetic and real-world data and validate using external and internal validation techniques. [Project 1.pdf](https://github.com/snehaldhone/Data-Analytics-Projects/files/10322634/Project.1.pdf) \n
+Project 2: To extract time series features for human activity monitoring. [Project 2.pdf](https://github.com/snehaldhone/Data-Analytics-Projects/files/10322628/Project.2.pdf) \n
+Project 3: To perform keyword network analysis and word frequency analysis. [FDA_Project3.pdf](https://github.com/snehaldhone/Data-Analytics-Projects/files/10322627/FDA_Project3.pdf)
